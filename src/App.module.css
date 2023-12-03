@@ -1,0 +1,17 @@
+.flex{
+    display:flex;
+    width :100vw;
+    background-color: aquamarine;
+    justify-content: space-evenly;
+}
+.activeLink{
+    cursor:pointer;
+    border-bottom: 4px solid transparent;
+}
+.nonactiveLink{
+    cursor:pointer;
+    border-bottom:4px solid transparent;
+    /* color: rgb(red, green, #0000ff); */
+}
+
+
